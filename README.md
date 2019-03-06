@@ -8,6 +8,7 @@ Hopefully this repository will stay reasonably static so that it matches the vid
 
 https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr
 
+https://patalee.github.io/particle.io-photon-high-school-robotics/
 
 
 
